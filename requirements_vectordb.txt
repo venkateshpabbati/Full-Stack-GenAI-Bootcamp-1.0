@@ -1,7 +1,7 @@
 # Core numerical packages
 numpy==1.26.4
 scipy==1.11.4
-scikit-learn==1.4.2
+scikit-learn>=1.5.0
 
 # Traditional retrieval
 rank-bm25==0.2.2
